@@ -1,0 +1,14 @@
+body{
+  background-color: #ffd9b3;
+}
+
+h1 {
+  color: green;
+}
+
+
+
+.checked {
+  text-decoration: line-through;
+  color:red
+}
